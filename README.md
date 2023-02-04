@@ -1,1 +1,1 @@
-# dashboard
+# Dashboard using Chart.js
